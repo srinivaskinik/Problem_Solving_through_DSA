@@ -1,4 +1,4 @@
-package com.question1;
+package com.logicBuildingExercises;
 
 public class SwapOfTwoNumbersSolUsingTemp {
 	public static void main(String[] args) {

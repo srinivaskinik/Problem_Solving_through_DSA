@@ -1,4 +1,4 @@
-package com.question4;
+package com.logicBuildingExercises;
 
 import java.math.BigInteger;
 

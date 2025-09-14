@@ -1,4 +1,4 @@
-package com.question5;
+package com.logicBuildingExercises;
 
 public class ArmStrongNumber {
 

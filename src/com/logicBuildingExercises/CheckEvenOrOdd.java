@@ -1,4 +1,4 @@
-package com.question3;
+package com.logicBuildingExercises;
 
 public class CheckEvenOrOdd {
 	

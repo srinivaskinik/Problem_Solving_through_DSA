@@ -1,4 +1,4 @@
-package com.question2;
+package com.logicBuildingExercises;
 
 public class ReverseANumber {
 	public static void main(String[] args) {
