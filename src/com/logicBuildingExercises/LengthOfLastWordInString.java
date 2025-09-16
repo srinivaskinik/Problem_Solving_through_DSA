@@ -2,6 +2,7 @@ package com.logicBuildingExercises;
 
 public class LengthOfLastWordInString {
 
+	//Leetcode 58. Length of Last Word
 	public static void main(String[] args) {
 
 		System.out.println(lengthOfLastWord("     Hello      world       "));
