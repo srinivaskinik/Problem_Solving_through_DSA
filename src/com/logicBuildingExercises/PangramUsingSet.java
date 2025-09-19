@@ -5,6 +5,7 @@ import java.util.HashSet;
 public class PangramUsingSet {
 
 	public static void main(String[] args) {
+		//1832. Check if the Sentence Is Pangram
 		String input = "The quick brown fox jumps over the lazy dog";
 		boolean result = checkPangram(input);
 		if(result) {
