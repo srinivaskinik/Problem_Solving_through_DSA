@@ -18,7 +18,7 @@ public class LinearSearchingInArray {
 		if (isPresent) {
 			System.out.println("Value found in the array at position " + position);
 		} else {
-			System.out.println("Valye not found in the array");
+			System.out.println("Value not found in the array");
 		}
 
 	}
