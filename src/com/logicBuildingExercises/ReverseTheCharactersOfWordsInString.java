@@ -21,7 +21,7 @@ public class ReverseTheCharactersOfWordsInString {
 			result= result +new String(chArray)+" ";
 		}
 		
-		System.out.println(result);
+		System.out.println(result.trim());
 
 	}
 
