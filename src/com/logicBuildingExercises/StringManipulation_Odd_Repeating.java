@@ -1,6 +1,6 @@
 package com.logicBuildingExercises;
 
-public class StringManipulation {
+public class StringManipulation_Odd_Repeating {
 
 	public static void main(String[] args) {
 		String input = "99956";
